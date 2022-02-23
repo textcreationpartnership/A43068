@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Arthur Haslerig his speech in Parliament the fifth of Ianuary last whereby he cleareth himselfe of the Articles of high treason exhibited against himselfe, the Lord Kimbolton, Mr. I. Pym, Mr. Hampden, Mr. Stroud and M. Hollis by His Majesty on Tuesday 4 of Ianu, 1641 [1642] : whereunto is added Master Pim his speech in Parliament concerning the vote of the House of Commons for his discharge upon the accusation of high treason exhibited against himself and others.</title>
+            <author>Hesilrige, Arthur, Sir, d. 1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43068</idno>
+            <idno type="STC">Wing H1126</idno>
+            <idno type="STC">ESTC R29870</idno>
+            <idno type="EEBO-CITATION">11216508</idno>
+            <idno type="OCLC">ocm 11216508</idno>
+            <idno type="VID">46849</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46849)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1444:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Arthur Haslerig his speech in Parliament the fifth of Ianuary last whereby he cleareth himselfe of the Articles of high treason exhibited against himselfe, the Lord Kimbolton, Mr. I. Pym, Mr. Hampden, Mr. Stroud and M. Hollis by His Majesty on Tuesday 4 of Ianu, 1641 [1642] : whereunto is added Master Pim his speech in Parliament concerning the vote of the House of Commons for his discharge upon the accusation of high treason exhibited against himself and others.</title>
+                  <author>Hesilrige, Arthur, Sir, d. 1661.</author>
+                  <author>Pym, John, 1584-1643. Master Pim his speech concerning the vote of the House of Commons for his discharge upon the accusation of treason exhibited against himself and others.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F.C. and T.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Treason --  England.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46849:1" rendition="simple:additions"/>
+            <p>Sir Arthur Haſlerigg his Speech in Parliament, the fifth of Ianuary laſt.</p>
+            <p>Whereby he cleareth himſelfe of the Articles of high Treaſon, exhibited againſt himſelfe, the Lord <hi>Kimbolton,</hi> Mr. <hi>I. Pym,</hi> Mr. <hi>Hampden,</hi> Mr. <hi>Stroud,</hi> and M. <hi>Hollis, by his Majeſty on tueſday</hi> 4. <hi>of Ianu.</hi> 1641.</p>
+            <p>Whereunto is added Maſter PIM his SPEECH In PARLIAMENT, Concerning the Vote of the Houſe of Commons, for his Diſcharge upon the Accuſation of High Treaſon, ex<g ref="char:EOLhyphen"/>hibited againſt himſelf, and others.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>F. C.</hi> and <hi>T. B.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="oration">
+            <pb n="2" facs="tcp:46849:2"/>
+            <head>Sir <hi>Arthur Haſlerigg</hi> his Speech in PARLIMENT.</head>
+            <opener>
+               <salute>Mr. <hi>Speaker.</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His misfortune of mine ſeemes to mee at the firſt exceeding ſtrange, not onely in reſpect of the Crimes laid to my charge, but moſt of all having thereby incurred not only the disfa<g ref="char:EOLhyphen"/>vour but irefull diſpleaſure of his Sacred <hi>Majeſty.</hi> For the firſt, knowing the innocency and integrity of my heart, that it is free from any ſuch crime either in thought, word or deed againſt either my gratious <hi>Soveraign,</hi> or my native <hi>Country,</hi> I ſhall the more eaſily beare the burthen of the charge, but to groane under the burthen of a moſt Pious and wiſe Prince his diſpleaſure, wounds me ſore.</p>
+            <p>Mr. <hi>Speaker,</hi> I humbly deſire ſo much favour of this Honourable Houſe of which I have had the happineſſe to be a Member, to ſpeake ſomething of my Innocence in all theſe Crimes I am charged withall.</p>
+            <p>This Honourable Houſe<g ref="char:punc">▪</g> (Mr. <hi>Speaker</hi>) can I hope witneſſe for me, the manner of my carriage and diſpoſition in any debate or arguments wherein I have beene one, I hope nothing hath proceeded from me; that can come any wayes within the compaſſe of Treaſon.</p>
+            <p>In all diſputes and concluſions of any matter by Vote of the Houſe, my Vote hath commonly agreed with the Major part then I hope my Vote in <hi>Parliament</hi> being free cannot be Treaſon.</p>
+            <p>Mr. <hi>Speaker,</hi> The Articles that are exhibited againſt mee and the other Gentlemen, are of moſt dangerous and pernitious conſequence, if wee ſhould be found guilty of them, which God defend, I would to God theſe perſons that incenſed his <hi>Majeſty</hi> againſt us, (which is eaſily conceived who they are) were as free from thoughts, words, may actions within the limits of Treaſon) as I hope we ſhall prove our ſelves by Gods bleſſing.</p>
+            <p>MASTER <hi>Speaker,</hi> It is alleadged, wee have endeavoured to ſubvert the fundamentall Lawes of this Land, abridge the Kings po<g ref="char:EOLhyphen"/>wer, and deny his Royall <hi>Prerogatives.</hi> Give mee leave I beſeech you, to ſpeake concerning this Article. There is (as I conceive) not two Formes or Governement in this Kingdome: there it not two ſorts of Fundamen<g ref="char:EOLhyphen"/>tall Lawes: there is but one forme of Government; One ſort of Fun<g ref="char:EOLhyphen"/>damentall Lawes, that is, the Common Lawes of this Land, and acts, Sta<g ref="char:EOLhyphen"/>tutes, and Ordinances of Parliament, theſe two Mr. <hi>Speaker,</hi> depend and
+<pb n="3" facs="tcp:46849:2"/> hang one upon another, ſo that they cannot bee ſeparated; and he that ſub<g ref="char:EOLhyphen"/>verts the one, breaks and infringes the other. Now under favour <hi>Mr. Spea<g ref="char:EOLhyphen"/>ker,</hi> to ſpeake freely in <hi>Parliament</hi> (freely called and aſſembled by his Maje<g ref="char:EOLhyphen"/>ſties moſt Royal Authority) to Vote freely in the ſame, upon the concluſion of any Bill to be made a Law by the whole conſent of Parliament aſſented to by his <hi>Majeſty:</hi> to agree in Voting with the whole Parliament againſt Delin<g ref="char:EOLhyphen"/>quents, and Malefactors in the State, to bring them to condigne puniſhment for the ſame: to give my Vote in the Houſe, or removing evill Counſellours from his ſacred Majeſty, to place loyall and faithfull ones in their place: To aſſent with the whole State aſſembled together in Counſell for the ſetling of peace and tranquillity in the ſame: To ordaine and enact ſuch wholſome Lawes and Ordinances whereby his Majeſties good Subjects may be gover<g ref="char:EOLhyphen"/>ned in righteouſneſſe and good obedience: To Vote with the Houſe for re<g ref="char:EOLhyphen"/>dresſing the many grievances of the Common-wealth, If theſe be to ſubvert the Fundamentall Lawes of the Land, then Mr. Speaker am I guilty of this Article in giving my Vote againſt the Earle of <hi>Strafford;</hi> in Voting thoſe acts already made and paſſed by his Majeſty; in Voting againſt the Biſhops; in proteſting to maintaine the Fundamentall Lawes of the Land, the true <hi>Prote<g ref="char:EOLhyphen"/>ſtant</hi> Religion, according to the true Doctrine of the Church of <hi>England:</hi> I ſay then Mr. <hi>Speaker,</hi> in this am I guilty of high Treaſon: but if this bee not to ſubvert the Lawes of the Land; then (as I conceive) am I cleare from beeing guilty of this Article. Which I humbly leave to the conſideration of this Ho<g ref="char:EOLhyphen"/>nourable Houſe.</p>
+            <p>Under favour <hi>(Maſter Speaker)</hi> I come now to the other Articles of the Charge: I will onely recite the ſubſtance of them; for they all harpe on one thing: To indeavour to bring in an Arbitrary and tyrannicall Forme of Go<g ref="char:EOLhyphen"/>vernment: To invite Tumults, and unlawfull reſorts of multitudes of people to the <hi>Parliament,</hi> to be a colour for our Deſignes: to raiſe Forces and Ar<g ref="char:EOLhyphen"/>mies in this Land to asſiſt me in my practiſes: To invite forraigne Princes to bring an Army into the Land: To endeavour by Declarations, Proclamati<g ref="char:EOLhyphen"/>ons, and otherwiſe to alienate the hearts of his Majeſties loyall Subjects from their lawfull Soveraigne thereby to avert their due obedience from him, and having an evill opinion of his ſacred Majeſty, to ſide with us, and take our parts to effect our Deſignes.</p>
+            <p>Give me leave I beſeech you to ſpeake concerning theſe crimes: And firſt <hi>Mr. Speaker</hi> to endeavour to bring in an Arbitrary power and tyrannicall Forme of Goverment in the Subject, is to deny Parliamentary proceedings: To oppoſe the Laws enacted by <hi>Parliaments:</hi> To incenſe his Majeſty againſt <hi>Parliaments;</hi> to protect and Petition againſt the proceedings thereof, is to bring in an Arbitrary forme of Government. But to agree with the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi>
+               <pb n="4" facs="tcp:46849:3"/> being a Member thereof by Vote to make and enact Lawes; I conceive this cannot be termed Arbitrary; neither I perſwade my ſelfe can the effects thereof be tyrannicall.</p>
+            <p>Secondly, concerning the late Tumults about the Houſe, I am innocent thereof; neither came they by my invitation or incouragement: I alwaies thought their reſorts in that ſort were illegall and riotous: I have Voted with this Houſe for their ſuppresſing; have aſſented to all Orders for their appea<g ref="char:EOLhyphen"/>ſing; agreed with the <hi>Parliament</hi> in all things concerning their petitions and Requeſts: Then I hope this <hi>Honourable</hi> Houſe will not conceive me guilty of this Crime: if it be one, and granted; yet I conceive far without the limits of Treaſon for theſe Reaſons.</p>
+            <p n="1">1. They came not with Armes to force any thing to be done in <hi>Parlia<g ref="char:EOLhyphen"/>ment;</hi> but humbly by Petition ſhewed their grievances, and deſired redreſſe thereof which is one Priviledge (and one of the greateſt) to make their griefs knowne to a <hi>Parliament,</hi> and by them to be relieved.</p>
+            <p n="2">2. They offered no aſſault; but (beeing aſſaulted) preſerved themſelves and departed.</p>
+            <p n="3">3. The matter of their clamour was not againſt the King nor any of his Counſell: It was not againſt the Lords, nor Houſe of Commons: It was on<g ref="char:EOLhyphen"/>ly againſt Delinquents, againſt ſuch as had been the greateſt oppreſſors of them.</p>
+            <p>Thirdly, I come in a word to the other Articles of the charge which I in<g ref="char:EOLhyphen"/>tend to ſpeake of (under favour) altogether: I pray you who raiſed any ar<g ref="char:EOLhyphen"/>my actually in this Land but the trained Bands, which was done by the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> for the ſecurity of their owne perſons in the Kings abſence; and in o<g ref="char:EOLhyphen"/>bedience to his commands, at his returne home they were diſcharged, and af<g ref="char:EOLhyphen"/>terwards againe raiſed by his Majeſties owne Royal Authority. And for in<g ref="char:EOLhyphen"/>viting or procuring any forreigne Princes to ayd me with an Army, I am altogether innocent therein; I know of no aid required but from <hi>Scotland,</hi> which is done by the <hi>Parliament,</hi> my Vote as a Member thereof only agree<g ref="char:EOLhyphen"/>ing with them in the ſame: And that aid is procured for his Majeſties asſi<g ref="char:EOLhyphen"/>ſtance in ſubduing the Rebellion in <hi>Ireland,</hi> and (as I conceive) for no other purpoſe. And for the laſt Article wherewith I am charged, I hope to bee cleared by this whole Houſe for what Declamations or Proclamations have beene publiſhed but by Authority of the <hi>Parliament,</hi> joyn'd with his Maje<g ref="char:EOLhyphen"/>ſties moſt Royall Power and aſſent thereunto. It is manifeſt to all people that nothing is publiſhed by the <hi>Parliament;</hi> or any of the Members thereof, but tendeth to the winning of the hearts of his Majeſties Subjects to dutifull obe<g ref="char:EOLhyphen"/>dience and intire love and tender affection towards their gracious Soveraign. And I dare confidently ſay, that there is none of his Majeſties Subjects that
+<pb n="5" facs="tcp:46849:3"/> are true Proteſtants, and well affected to Religion; but upon the leaſt com<g ref="char:EOLhyphen"/>mand of his Majeſties, will ſpend their deareſt bloud in defence of his Sacred Perſon, his Queene and Princely Iſſue, of the Lawes and Conſtitutions of this Kingdome, of <hi>Parliaments</hi> and the Rights and Priviledges thereof; of Reli<g ref="char:EOLhyphen"/>gion and the Doctrine of the Church of <hi>England.</hi> And therefore I conceive I am far from intending any Treaſon againſt his Majeſty or Kingdome. And thus craving pardon for my preſumption, and humbly thanking this Honou<g ref="char:EOLhyphen"/>rable Houſe for their patience, beſeeching them to have a good opinion of me and my Actions, that I may receive ſuch Tryall as to their wiſedomes ſhall ſeeme meet, with my hearty Prayers for the happy continuance of this <hi>Parliament;</hi> to effect and finiſh ſuch great matters both in Church and State, as may advance Gods glory, ſettle all things in a right frame for the good Governement of this Kingdome, and the everlaſting peace and tranquillity of his Majeſty and all his Kingdomes.</p>
+         </div>
+         <div type="oration">
+            <head>Maſter <hi>Pymme</hi> his Speech in <hi>Parliament</hi> on Wedneſday the 5. of <hi>January,</hi> 1641.</head>
+            <head type="sub">Concerning the Vote of the Houſe of Commons, for his Diſcharge upon the Accuſation of High Treaſon, exhibited againſt himſelfe, and others, &amp;c.</head>
+            <opener>
+               <salute>Maſter Speaker,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe Articles of High Treaſon exhibited by his Majeſtie againſt me and the other Gentlemen in the accuſation charged with the ſame Crime, are of great conſequence, and much danger to the State: The Articles in themſelves, if proved are according to the Lawes of this Land High Treaſon.</p>
+            <p>Firſt, to endeavour to ſubvert the Fundamentall Lawes of the Land, is by this preſent Parliament in the Earle of <hi>Stafords</hi> Caſe adjudged High Treaſon.</p>
+            <p>Secondly, to endavour to introduce into this Kingdome an Arbytrarie and tyrannicall forme of Government, is likewiſe Voted High Treaſon.</p>
+            <pb n="6" facs="tcp:46849:4"/>
+            <p>Thirdly, to raiſe an Army to compell the Parliament to make and enact Lawes without their free Votes, and willing proceedings in the ſame is High Treaſon.</p>
+            <p>Fourthly, to invite a forraigne force to invade this Land, to favour our de<g ref="char:EOLhyphen"/>ſignes agitated againſt the King and State, is High Treaſon.</p>
+            <p>Fiftly, to animate and encourage riotous Aſſemblies and tumults about the <hi>Parliament</hi> to compell the King to aſſent to the Votes of the Houſe is Treaſon.</p>
+            <p>Sixtly, to caſt aſperſions upon his Majeſty and his Government, to alienate the affections of His people, and to make his Majeſty odious unto them is Treaſon.</p>
+            <p>Seventhly, to endeavour to draw his Majeſties Army into diſobedience, and to ſide with us in our deſignes, if againſt the King, is Treaſon.</p>
+            <p>I deſire, Maſter <hi>Speaker,</hi> the favour of this Houſe to declare my ſelfe, con<g ref="char:EOLhyphen"/>cerning this Charge, ſhall onely parrallell and ſimilize my actions ſince the ſitting of this <hi>Parliament</hi> with theſe Articles.</p>
+            <p>Firſt, Maſter <hi>Speaker,</hi> if to Vote with the <hi>Parliament,</hi> as a Member of the Houſe, wherein all our Votes ought to be free: it being one of the greateſt priv<g ref="char:EOLhyphen"/>ledges thereof to have our debates, diſputes, &amp; arguments in the ſame unqueſti<g ref="char:EOLhyphen"/>nable, be to endeavour to ſubvert the Fundamentall Lawes, then am I guilty of the firſt Article.</p>
+            <p>Secondly, If to agree and conſent with the whole State of the Kingdome by Vote to ordaine and make Lawes for the good government of his Majeſties Subjects in peace and dutifull obedience to their lawfull Soveraigne bee to in<g ref="char:EOLhyphen"/>troduce an Arbitrary and tyrannicall forme of government in the ſtate, then am I guilty of this Article.</p>
+            <p>Thirdly, If to conſent by Vote with the <hi>Parliament,</hi> to raiſe a Guard, or Traine-Band to ſecure and defend the perſons or the Members thereof, being invironed and beſet with many dangers in the abſence of the King, and by Vote with the Houſe, in willing obedience to the Royall command of his ſacred Majeſty, at his returne, be actually to levie Armes againſt the King: then am I guilty of this Article.</p>
+            <p>Fourthly, If to joyne with the <hi>Parliament,</hi> by free Vote to crave brotherly aſſiſtance from <hi>Scotland,</hi> Kingdomes both under obedience to one Soveraigne, both his loyall and dutifull Subjects, to ſuppreſſe the Rebellion in <hi>Ireland</hi> which lyes gaſping every day in danger to be loſt from his Majeſties ſubjecti<g ref="char:EOLhyphen"/>on, be to invite and incourage a forraigne power to invade this Kingdome: then am I guilty of High Treaſon.</p>
+            <p>Fiftly, If to agree with the greateſt and wiſeſt Councell of State, to ſup<g ref="char:EOLhyphen"/>preſſe unlawfull tumults and riotous aſſemblies, to agree with the Houſe by
+<pb n="7" facs="tcp:46849:4"/> Vote to all Orders, Edicts, and Declarations for their repelling, bee to raiſe and countenance them in their unlawfull actions, then am I guilty of this Article.</p>
+            <p>Sixtly, If by free Vote to joyne with the <hi>Parliament</hi> in publiſhing of a Remonſtrance in ſetting forth Declarations againſt Delinquents, in the State againſt Incendiaries betweene his Majeſties Kingdome, againſt ill Counſel<g ref="char:EOLhyphen"/>lors which labour to avert his Majeſties affection from <hi>Parliaments</hi> againſt thoſe ill affected Biſhops that have innovated our Religion, oppreſſing paine<g ref="char:EOLhyphen"/>full, learned and godly Miniſters with vexatious, ſuites and moleſtations in their unjuſt Courts, by cruell ſentences of Pillory, and cutting off their eares, greatiſines, Baniſhment, and perpetuall Impriſonment, If this Mr. <hi>Speaker</hi> be to caſt aſperſions on his Majeſty and his governement, and to alienate the hearts of his Loyall Subjects good Proteſtants, and well affected in Religion, from their due obedience to his Royall Majeſty, then am I guilty of this Article.</p>
+            <p>Seventhly, If to conſent by Vote with the <hi>Parliament</hi> to put forth Procla<g ref="char:EOLhyphen"/>mations, to ſend Declarations to his Majeſties Army, to annimate and encou<g ref="char:EOLhyphen"/>rage the ſame to his Loyall obedience, to give ſo many Subſidies, raiſed ſo many great ſummes of mony willingly for their keeping on foote to ſerve his Majeſty upon his Royall command on any occaſion, to apprehend and at<g ref="char:EOLhyphen"/>tach as Delinquents, ſuch perſons in the ſame as are diſaffected both to his ſa<g ref="char:EOLhyphen"/>cred Perſon, his Crowne and Dignity, to the wiſe and great Counſell of <hi>Par<g ref="char:EOLhyphen"/>liament</hi> to the true and Orthodox Doctrine of the Church of <hi>England,</hi> and the true Religion grounded on the Doctrine of <hi>Chriſt</hi> himſelfe, and eſtabli<g ref="char:EOLhyphen"/>ſhed, and confirmed by many Acts of <hi>Parliament</hi> in the Reigne of <hi>Hon.</hi> 8. <hi>E.</hi> 6. Queene <hi>Elizab.</hi> and King <hi>Iames</hi> of bleſſed memory, if this Mr. <hi>Spea<g ref="char:EOLhyphen"/>ker</hi> be to draw his Majeſties Army into diſobedience, and to ſide with us in our Deſignes, then I am guilty of this Article.</p>
+            <p>Now, Maſter <hi>Speaker,</hi> Having given you a touch concerning theſe Articles, comparing them with my Actions, ever ſince I have had the Honour to ſit in this Houſe as a Member thereof: I humbly crave your conſideration, and fa<g ref="char:EOLhyphen"/>vourable judgement of them, not doubting, they being weighed in the even ſcales of your Wiſedomes, I ſhall bee found innocent and cleare from theſe Crimes laid to my charge.</p>
+            <p>Maſter <hi>Speaker.</hi> I humbly crave your further patience to ſpeake ſomewhat concerning the exhibiting of this Charge which is to propoſe to your Conſide<g ref="char:EOLhyphen"/>rations theſe propoſitions, <hi>viz.</hi>
+            </p>
+            <p>Firſt, whether to exhibit Articles of High Treaſon by his Majeſties owne hands in this Houſe agrees with the rights and priviledges thereof.</p>
+            <pb n="8" facs="tcp:46849:5"/>
+            <p>Secondly, Whether for a guard armed to come into the Parliament to accuſe any of the Members thereof, bee not a breach of the priviledge of Parliament.</p>
+            <p>Thirdly, Whether any of the Members of Parliament being ſo accuſed may be committed upon ſuch accuſation, without the whole conſent thereof.</p>
+            <p>Fourthly, Whether a Parliament hath not priviledge to bayle any Member ſo accuſed.</p>
+            <p>Fiftly and laſtly, Whether if any of the Members of a Parliament ſo char<g ref="char:EOLhyphen"/>ged, and by the Houſe diſcharged without releaſe from his Majeſty may ſtill ſit in the Houſe as members of the ſame. And thus Maſter <hi>Speaker,</hi> I humbly crave pardon for my preſumption in ſo farre troubling this Honourable Houſe, deſiring their favourable conſideration of all my Actions, and that I may have ſuch a tryall as to this wiſe Counſell ſhall thinke meete, cheerefully ſubmitting my ſelfe and actions to the righteous judgements of the ſame.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46849:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
